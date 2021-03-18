@@ -1,5 +1,5 @@
 WORKFLOWS_DIR := ~/Library/Application\ Support/Alfred/Alfred.alfredpreferences/workflows
-BUNDLE_ID := dk.sniarn.alfred-mediainfo-workflow
+BUNDLE_ID := com.lizq.alfred.mediainfo
 
 all:
 
